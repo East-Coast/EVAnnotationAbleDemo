@@ -1,0 +1,6 @@
+framework module Pods_EVAnnotationAbleDemoUITests {
+  umbrella header "Pods-EVAnnotationAbleDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
