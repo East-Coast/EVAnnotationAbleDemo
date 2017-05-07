@@ -267,7 +267,7 @@ extension ZZHMapViewController:UITableViewDelegate,UITableViewDataSource{
         
         switch tableView {
             
-        case poiTableView:     //POI列表
+        case poiTableView:     //POI列表 ceshi
             
             let poi = poiArray?[indexPath.row]
             
